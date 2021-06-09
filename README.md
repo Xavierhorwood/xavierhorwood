@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
 <h3 align="center">A developer from australia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavierhorwood" alt="xavierhorwood" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://teamriverbubbles.com](https://teamriverbubbles.com)
 
 - 📫 How to reach me **xhorw1@teamriverbubbles.com**
